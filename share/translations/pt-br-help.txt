@@ -15,7 +15,7 @@ Tipos de locais suportados:
 
 Lugares especiais:
 
-    /moon                   # a fase da ua (crescente ,+US ou ,+France para estas cidades)
+    /moon                   # a fase da lua (crescente ,+US ou ,+France para estas cidades)
     /moon@2016-10-25        # a fase da Lua em uma determinada data (@2016-10-25)
 
 Unidades:
